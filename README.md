@@ -1,8 +1,5 @@
-### Hello my friend!!! 😄
-
-Pai, Engenheiro de software, apaixonado por cultura nordestina e café!
-
----
+Hello World. 😄
+===========================
 
 ![PHP](https://img.shields.io/badge/%E2%9C%94-PHP-787CB5?style=for-the-badge)
 ![Java](https://img.shields.io/badge/%E2%9C%94-JAVA-F89820?style=for-the-badge)
@@ -12,3 +9,14 @@ Pai, Engenheiro de software, apaixonado por cultura nordestina e café!
 ![JENKINS](https://img.shields.io/badge/%E2%9C%94-JENKINS-335061?style=for-the-badge)
 ![DOCKER](https://img.shields.io/badge/%E2%9C%94-DOCKER-2496ED?style=for-the-badge)
 
+---
+
+### SOBRE MIM
+
+  - Atualmente trabalho como engenheiro de software na Informata 
+  - Estou me aprofundando nos estudos de algoritmos e estruturas de dados
+
+### LIVROS QUE ESTOU LENDO
+
+  - Cartas de um estoico
+  - \+ Esperto que o diabo
